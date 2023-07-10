@@ -24,6 +24,11 @@ const moocscards = [
     cardImage: "assets/images/education-page/Linkedin.svg",
     moocLink: "https://drive.google.com/file/d/1b_NWKGBoJe-y7sPBKvCgXehoIopDfs3R/view?usp=sharing",
   },
+  {
+    title: "Big Data Hadoop",
+    cardImage: "assets/images/education-page/Linkedin.svg",
+    moocLink: "https://drive.google.com/file/d/1TmS90wTpA51-U6tQNLqR9_xtQFQkc9L5/view?usp=sharing",
+  },
   
   
 ];
