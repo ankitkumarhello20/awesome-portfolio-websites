@@ -29,6 +29,11 @@ const moocscards = [
     cardImage: "assets/images/education-page/Linkedin.svg",
     moocLink: "https://drive.google.com/file/d/1TmS90wTpA51-U6tQNLqR9_xtQFQkc9L5/view?usp=sharing",
   },
+  {
+    title: "Master SQL",
+    cardImage: "assets/images/education-page/Linkedin.svg",
+    moocLink: "https://drive.google.com/file/d/1HJ4SiB7i7ng6AgPaWYE8tmXvA8oBKkAK/view?usp=sharing",
+  },
   
   
 ];
